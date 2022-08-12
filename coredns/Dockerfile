@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/coredns:v1.8.0
+FROM gcr.io/coredns:v1.8.0
