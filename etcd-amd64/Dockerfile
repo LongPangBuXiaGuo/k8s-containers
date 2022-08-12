@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/etcd-amd64:3.5.0
+FROM k8s.gcr.io/etcd:3.5.0

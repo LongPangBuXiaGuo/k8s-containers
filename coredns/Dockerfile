@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/coredns:1.8.0
+FROM k8s.gcr.io/coredns-kube-up:1.8.0
